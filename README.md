@@ -65,8 +65,6 @@ npm i express ```
 
 
 
-## Tests
-``` npm test ```
 
 ## Questions
 ✋Reach me here:<br/>
