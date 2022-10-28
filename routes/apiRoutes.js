@@ -34,7 +34,7 @@ app.post('/api/notes',(req,res) =>{
     // pushing created note to be written in the db.json file
     db.push(newNote);
     fs.writeFileSync('db/db.json', JSON.stringify(db));
-    res.json(db);
+    //res.json(db);
   });
 
 
