@@ -1,14 +1,11 @@
 <h1>Note Taker👋</h1>
-## Deploy the application to Heroku link: https://note-taken-express.herokuapp.com/notes
+<br/>
+Deploy the application to Heroku link: https://note-taken-express.herokuapp.com/
 
 ## Badges
 ![badge](https://img.shields.io/github/languages/top/xiaojing168jmg168/note-taker)
  
 ![badge](https://img.shields.io/github/languages/count/xiaojing168jmg168/note-taker)
-
-![badge](https://img.shields.io/github/issues/xiaojing168jmg168/note-taker)
-
-![badge](https://img.shields.io/github/issues-closed/xiaojing168jmg168/note-taker)
 
 ![badge](https://img.shields.io/github/last-commit/xiaojing168jmg168/note-taker)
 
