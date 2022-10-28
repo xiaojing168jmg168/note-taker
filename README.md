@@ -1,4 +1,5 @@
 <h1>Note Taker👋</h1>
+## Deploy the application to Heroku link: https://note-taken-express.herokuapp.com/notes
 
 ## Badges
 ![badge](https://img.shields.io/github/languages/top/xiaojing168jmg168/note-taker)
@@ -38,13 +39,6 @@ There are three main features of this application:
 npm i express ```
 <br/>
 
-
-## usage
-💻 
-
-<video  width="500" height="400" controls>
-  <source src="./utils/note-taker-1.mp4" type="video/mp4">
-</video>
 
 
 ## screenshot
